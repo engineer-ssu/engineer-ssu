@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffcc00&height=200&fontSize=50&text=안녕하세요!👋👋)
 
 ## About Me
-QA 엔지니어
+엔지니어
 
 ## Skills
 
