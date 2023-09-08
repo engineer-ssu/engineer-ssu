@@ -14,7 +14,7 @@
 
 
 ## Commin Stats
-![SSU's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSU&show_icons=true&count_private=true)
+![SSU's GitHub stats](https://github-readme-stats.vercel.app/api?username=engineer-ssu&show_icons=true&count_private=true&custom_title=통계)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineer-ssu)
 
 ## Total
