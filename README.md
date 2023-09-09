@@ -10,7 +10,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;&nbsp;![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000)&nbsp;&nbsp;![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;
 
 ### 스터디 중
-![nestjs](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;&nbsp;![graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;&nbsp;![python](https://img.shields.io/badge/python-61DAFB?style=for-the-badge&logo=python&logoColor=000000)&nbsp;&nbsp;
+![nestjs](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;&nbsp;![graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;&nbsp;![python](https://img.shields.io/badge/python-61DAFB?style=for-the-badge&logo=python&logoColor=000000)&nbsp;&nbsp;
 
 
 ## Commin Stats
