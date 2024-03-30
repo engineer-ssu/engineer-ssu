@@ -4,8 +4,8 @@
 엔지니어
 
 <!-- 
-[![Notion](https://img.shields.io/badge/Resume-notion?style=flat-square&logo=notion&color=000000&logoColor=white)](https://prickly-vinyl-0c6.notion.site/a91b01ba2bfc435e8a73441869004e97?pvs=4)&nbsp;&nbsp;[! --> 
-[Gmail](https://img.shields.io/badge/Mail%20Me-notion?style=flat-square&logo=gmail&color=EA4335&logoColor=white)](mailto:developer.ssu.ssu@gmail.com)&nbsp;&nbsp;[![Tistory](https://img.shields.io/badge/Blog-tistory?style=flat-square&logo=tistory&color=000000&logoColor=white)](https://engineer-ssu.tistory.com)
+[![Notion](https://img.shields.io/badge/Resume-notion?style=flat-square&logo=notion&color=000000&logoColor=white)](https://prickly-vinyl-0c6.notion.site/a91b01ba2bfc435e8a73441869004e97?pvs=4)&nbsp;&nbsp; --> 
+[![Gmail](https://img.shields.io/badge/Mail%20Me-notion?style=flat-square&logo=gmail&color=EA4335&logoColor=white)](mailto:developer.ssu.ssu@gmail.com)&nbsp;&nbsp;[![Tistory](https://img.shields.io/badge/Blog-tistory?style=flat-square&logo=tistory&color=000000&logoColor=white)](https://engineer-ssu.tistory.com)
 
 ## Skills
 
