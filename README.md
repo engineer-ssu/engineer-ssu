@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffcc00&height=200&fontSize=50&text=안녕하세요!👋👋)
 
 ## About Me
-엔지니어
+웹 프론트엔트 개발자입니다. 
+취미로 Nest.js 를 공부하고 있고
+셀레니움을 통해 자동화 솔루션을 구축하고 있습니다.
 
 <!-- 
 [![Notion](https://img.shields.io/badge/Resume-notion?style=flat-square&logo=notion&color=000000&logoColor=white)](https://prickly-vinyl-0c6.notion.site/a91b01ba2bfc435e8a73441869004e97?pvs=4)&nbsp;&nbsp; --> 
