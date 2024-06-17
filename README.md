@@ -17,7 +17,7 @@
 ![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 스터디 중
-![graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;&nbsp;![python](https://img.shields.io/badge/python-61DAFB?style=for-the-badge&logo=python&logoColor=000000)&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
+![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;&nbsp;![graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;&nbsp;![python](https://img.shields.io/badge/python-61DAFB?style=for-the-badge&logo=python&logoColor=000000)&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
 
 
 <!--
